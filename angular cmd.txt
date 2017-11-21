@@ -3,6 +3,7 @@ npm install npm@latest -g
 
 
 npm install angular/cli@latest       ==> npm install -g @angular/cli
+npm use
 npm install angular/cli@latest
 git config --global https.proxy http://inpunwbs02-wcg.corp.capgemini.com:8080
 npm config set proxy https://inpunwbs02-wcg.corp.capgemini.com:8080/
